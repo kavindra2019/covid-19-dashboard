@@ -1,0 +1,723 @@
+2020-03-01T23:33:03,14,0,,,"Toronto, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-03-01T21:13:12,9,1,,,"Seattle, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-03-01T03:53:02,3,0,,,"Chicago, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-29T01:33:03,3,0,,,"Santa Clara, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-21T05:43:02,2,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-03-01T20:23:06,2,0,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-28T05:23:07,1,0,,," Montreal, QC",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-12T18:53:03,1,0,,,"London, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-28T21:13:12,1,0,,,"Boston, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-01T19:53:03,1,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-05T21:53:02,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-01T19:53:03,1,0,,,"Orange, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-29T02:23:11,1,0,,,"Portland, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-03-01T15:33:03,1,0,,,"Providence, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-25T21:23:03,1,0,,,"Tempe, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-01-2020.csv,2020-06-01 17:49:45.081000000
+2020-03-02T20:53:02,17,0,,,"Toronto, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T20:23:16,14,5,,,"King County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T20:33:02,9,0,,,"Santa Clara, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T20:33:02,4,0,,,"Cook County, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T20:53:02,4,1,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T03:33:08,2,0,,,"Portland, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T03:43:02,2,0,,,"Providence, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-21T05:43:02,2,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-28T05:23:07,1,0,,," Montreal, QC",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-12T18:53:03,1,0,,,"London, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-28T21:13:12,1,0,,,"Boston, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T20:33:02,1,0,,,"Grafton County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T03:13:25,1,0,,,"Hillsborough, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-01T19:53:03,1,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-05T21:53:02,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T01:53:03,1,0,,,"New York City, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-01T19:53:03,1,0,,,"Orange, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T23:53:02,1,0,,,"Placer County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T20:43:02,1,0,,,"San Mateo, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T03:23:06,1,0,,,"Sarasota, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T20:53:02,1,0,,,"Sonoma County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-25T21:23:03,1,0,,,"Tempe, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-02T20:23:16,1,0,,,"Umatilla, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-02-2020.csv,2020-06-01 17:49:45.329000000
+2020-03-03T20:23:05,21,6,,,"King County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T20:03:08,19,0,,,"Toronto, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T23:33:03,11,0,,,"Santa Clara, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T20:23:05,6,1,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-02T20:33:02,4,0,,,"Cook County, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T03:33:02,2,0,,,"Fulton County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T23:33:03,2,0,,,"Grafton County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T18:33:02,2,0,,,"Hillsborough, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-02T03:43:02,2,0,,,"Providence, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-21T05:43:02,2,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T00:43:02,2,0,,,"San Mateo, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T03:03:02,2,0,,,"Washington County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-28T05:23:07,1,0,,," Montreal, QC",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-12T18:53:03,1,0,,,"London, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T14:33:03,1,0,,," Norfolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T23:53:03,1,0,,,"Berkeley, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-28T21:13:12,1,0,,,"Boston, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-01T19:53:03,1,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T15:53:03,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T17:33:02,1,0,,,"Maricopa County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-02T01:53:03,1,0,,,"New York City, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-01T19:53:03,1,0,,,"Orange, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-02T23:53:02,1,0,,,"Placer County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-02T03:23:06,1,0,,,"Sarasota, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-02T20:53:02,1,0,,,"Sonoma County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-25T21:23:03,1,0,,,"Tempe, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-02T20:23:16,1,0,,,"Umatilla, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T20:53:02,1,0,,,"Wake County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-03T14:43:03,1,0,,,"Westchester County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-03-2020.csv,2020-06-01 17:49:45.582000000
+2020-03-04T19:53:02,31,9,,,"King County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T20:03:08,19,0,,,"Toronto, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T23:33:03,11,0,,,"Santa Clara, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-04T21:23:10,10,0,,,"Westchester County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-04T19:53:02,8,1,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-04T18:13:18,7,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-02T20:33:02,4,0,,,"Cook County, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-04T02:13:11,3,0,,,"Orange County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T03:33:02,2,0,,,"Fulton County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T23:33:03,2,0,,,"Grafton County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T18:33:02,2,0,,,"Hillsborough, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-04T19:53:02,2,1,,,"Placer County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-02T03:43:02,2,0,,,"Providence, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-21T05:43:02,2,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T00:43:02,2,0,,,"San Mateo, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T03:03:02,2,0,,,"Washington County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-28T05:23:07,1,0,,," Montreal, QC",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-12T18:53:03,1,0,,,"London, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T14:33:03,1,0,,," Norfolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T23:53:03,1,0,,,"Berkeley, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-28T21:13:12,1,0,,,"Boston, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-04T04:23:05,1,0,,,"Contra Costa County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T15:53:03,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T17:33:02,1,0,,,"Maricopa County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-02T01:53:03,1,0,,,"New York City, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-02T03:23:06,1,0,,,"Sarasota, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-02T20:53:02,1,0,,,"Sonoma County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-25T21:23:03,1,0,,,"Tempe, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-02T20:23:16,1,0,,,"Umatilla, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-03T20:53:02,1,0,,,"Wake County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-04-2020.csv,2020-06-01 17:49:45.859000000
+2020-03-05T22:03:17,51,10,,,"King County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T17:53:03,21,0,,,"Toronto, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T22:53:03,20,0,,,"Santa Clara, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T20:23:07,18,1,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T21:33:03,18,0,,,"Westchester County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T21:03:14,11,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T18:33:03,5,0,,,"Cook County, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T21:03:13,4,0,,,"New York City, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-04T02:13:11,3,0,,,"Orange County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T20:33:03,3,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T14:03:04,2,0,,," Montreal, QC",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T21:03:12,2,0,,,"Bergen County, NJ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T03:33:02,2,0,,,"Fulton County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T23:33:03,2,0,,,"Grafton County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T21:53:02,2,0,,,"Harris County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T18:33:02,2,0,,,"Hillsborough, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-04T19:53:02,2,1,,,"Placer County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-02T03:43:02,2,0,,,"Providence, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T20:33:03,2,0,,,"San Francisco County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T00:43:02,2,0,,,"San Mateo, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T03:03:02,2,0,,,"Washington County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-12T18:53:03,1,0,,,"London, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T14:33:03,1,0,,," Norfolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T23:53:03,1,0,,,"Berkeley, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-28T21:13:12,1,0,,,"Boston, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T20:53:03,1,0,,,"Clark County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-04T04:23:05,1,0,,,"Contra Costa County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T01:16:59,1,0,,,"Fort Bend County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T20:23:07,1,0,,,"Grant County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T15:53:03,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T17:33:02,1,0,,,"Maricopa County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T21:43:02,1,0,,,"Queens County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T20:03:03,1,0,,,"Santa Rosa County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-02T03:23:06,1,0,,,"Sarasota, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-02T20:53:02,1,0,,,"Sonoma County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-25T21:23:03,1,0,,,"Tempe, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-02T20:23:16,1,0,,,"Umatilla, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-03T20:53:02,1,0,,,"Wake County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-05T23:33:03,1,0,,,"Williamson County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-05-2020.csv,2020-06-01 17:49:46.133000000
+2020-03-06T23:13:07,58,12,,,"King County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T20:53:02,24,0,,,"Toronto, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T22:53:03,20,0,,,"Santa Clara, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T23:13:07,19,1,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T15:43:03,19,0,,,"Westchester County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T19:13:40,16,0,,,"New York County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T23:13:07,13,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T18:33:03,5,0,,,"Cook County, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T23:13:07,5,1,,,"Placer County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T00:33:03,5,0,,,"Unassigned Location, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T19:43:02,3,0,,,"Contra Costa County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T15:43:02,3,0,,,"Harris County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T04:03:17,3,0,,,"Montgomery County, MD",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-04T02:13:11,3,0,,,"Orange County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T20:33:03,3,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T18:33:03,3,0,,,"Suffolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T14:03:04,2,0,,," Montreal, QC",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T18:33:03,2,0,,," Norfolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T21:03:12,2,0,,,"Bergen County, NJ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T23:33:02,2,0,,,"Denver County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-03T03:33:02,2,0,,,"Fulton County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-03T23:33:03,2,0,,,"Grafton County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-03T18:33:02,2,0,,,"Hillsborough, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T18:33:03,2,0,,,"Maricopa County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-02T03:43:02,2,0,,,"Providence, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T20:33:03,2,0,,,"San Francisco County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-03T00:43:02,2,0,,,"San Mateo, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T01:29:39,2,0,,,"Summit County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-03T03:03:02,2,0,,,"Washington County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T13:13:34,1,0,,,"Calgary, Alberta",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-12T18:53:03,1,0,,,"London, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-03T23:53:03,1,0,,,"Berkeley, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T16:13:15,1,0,,,"Chatham County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T20:53:03,1,0,,,"Clark County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T15:33:03,1,0,,,"Delaware County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T23:33:02,1,0,,,"Douglas County, NE",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T23:23:03,1,0,,,"Fayette County, KY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T17:53:03,1,0,,,"Floyd County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T01:16:59,1,0,,,"Fort Bend County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T20:23:07,1,0,,,"Grant County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-03T15:53:03,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T17:13:12,1,0,,,"Marion County, IN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T01:29:39,1,0,,,"Middlesex County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T14:43:15,1,0,,,"Nassau County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T02:33:03,1,0,,,"Norwell County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T23:23:03,1,0,,,"Ramsey County, MN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T20:03:03,1,0,,,"Santa Rosa County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-02T03:23:06,1,0,,,"Sarasota, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-02T20:53:02,1,0,,,"Sonoma County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-25T21:23:03,1,0,,,"Tempe, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-02T20:23:16,1,0,,,"Umatilla, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-03T20:53:02,1,0,,,"Wake County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T19:43:02,1,0,,,"Washoe County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T16:13:15,1,0,,,"Wayne County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-05T23:33:03,1,0,,,"Williamson County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-06T20:13:14,1,0,,,"Yolo County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-06-2020.csv,2020-06-01 17:49:46.381000000
+2020-03-07T20:23:03,71,15,,,"King County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T18:23:05,57,0,,,"Westchester County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T23:43:03,32,0,,,"Santa Clara County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T03:53:03,27,0,,,"Toronto, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T20:23:03,27,1,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T23:53:03,14,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T18:23:05,11,0,,,"New York County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T23:53:03,9,0,,,"San Francisco County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T01:53:03,6,0,,,"Cook County, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T05:13:03,5,0,,,"Harris County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T23:13:07,5,1,,,"Placer County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T00:33:03,5,0,,,"Unassigned Location, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T02:53:02,4,0,,,"Bergen County, NJ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T00:03:28,4,0,,,"Nassau County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T02:23:08,3,0,,," Montreal, QC",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T19:43:02,3,0,,,"Contra Costa County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T01:53:03,3,0,,,"Douglas County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T02:03:30,3,0,,,"Fort Bend County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T16:53:03,3,0,,,"Fulton County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T19:53:02,3,0,,,"Maricopa County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T04:03:17,3,0,,,"Montgomery County, MD",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-04T02:13:11,3,0,,,"Orange County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T02:23:08,3,0,,,"Providence County, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-05T20:33:03,3,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T18:33:03,3,0,,,"Suffolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T20:13:14,3,0,,,"Washington County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T18:33:03,2,0,,," Norfolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T13:13:14,2,0,,,"Alameda County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T04:43:02,2,0,,,"Broward County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T23:33:02,2,0,,,"Denver County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T20:13:14,2,0,,,"Fairfield County, CT",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T16:53:03,2,0,,,"Floyd County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-03T23:33:03,2,0,,,"Grafton County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-03T18:33:02,2,0,,,"Hillsborough, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T16:43:02,2,0,,,"Lee County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T17:13:23,2,0,,,"Pinal County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T16:43:02,2,0,,,"Rockland County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-03T00:43:02,2,0,,,"San Mateo, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T18:23:05,2,0,,,"Saratoga County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T01:29:39,2,0,,,"Summit County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T13:13:34,1,0,,,"Calgary, Alberta",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T02:23:08,1,0,,,"Edmonton, Alberta",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-02-12T18:53:03,1,0,,,"London, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T01:53:03,1,0,,,"Charleston County, SC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T16:13:15,1,0,,,"Chatham County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-05T20:53:03,1,0,,,"Clark County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T20:03:07,1,0,,,"Clark County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T16:53:03,1,0,,,"Cobb County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T04:43:02,1,0,,,"Davis County, UT",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T15:33:03,1,0,,,"Delaware County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T23:33:02,1,0,,,"Douglas County, NE",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T01:13:21,1,0,,,"El Paso County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T23:23:03,1,0,,,"Fayette County, KY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-05T20:23:07,1,0,,,"Grant County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T02:03:30,1,0,,,"Honolulu County, HI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T20:03:06,1,0,,,"Jackson County, OR ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T16:43:02,1,0,,,"Jefferson County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T02:03:30,1,0,,,"Kershaw County, SC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T20:13:14,1,0,,,"Klamath County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T20:13:14,1,0,,,"Madera County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-03T15:53:03,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T17:13:12,1,0,,,"Marion County, IN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T03:53:03,1,0,,,"Middlesex County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T03:13:44,1,0,,,"Pierce County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T03:53:03,1,0,,,"Plymouth County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T23:23:03,1,0,,,"Ramsey County, MN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T23:43:03,1,0,,,"Santa Cruz County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-05T20:03:03,1,0,,,"Santa Rosa County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-02T03:23:06,1,0,,,"Sarasota, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-02T20:53:02,1,0,,,"Sonoma County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T04:43:02,1,0,,,"Tulsa County, OK",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-02T20:23:16,1,0,,,"Umatilla, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-03T20:53:02,1,0,,,"Wake County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T19:43:02,1,0,,,"Washoe County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T16:13:15,1,0,,,"Wayne County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-05T23:33:03,1,0,,,"Williamson County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-06T20:13:14,1,0,,,"Yolo County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-07T19:53:02,0,0,,,"Montgomery County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-07-2020.csv,2020-06-01 17:49:46.620000000
+2020-03-08T20:23:09,83,17,,,"King County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T18:03:07,83,0,,,"Westchester County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:23:03,38,0,,,"Santa Clara County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:43:03,31,1,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:33:02,28,0,,,"Toronto, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T01:13:48,14,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:43:03,12,0,,,"Contra Costa County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T04:13:22,12,0,,,"New York County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T01:23:12,9,0,,,"San Francisco County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:13:14,8,0,,,"Suffolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T19:43:03,8,0,,,"Washington County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T20:23:09,7,0,,,"Cook County, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:13:12,7,0,,,"Middlesex County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T17:33:03,6,0,,,"Fort Bend County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:13:14,6,0,,,"Norfolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T05:13:03,5,0,,,"Harris County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T16:03:05,5,0,,,"Nassau County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T23:13:07,5,1,,,"Placer County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T00:33:03,5,0,,,"Unassigned Location, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T16:03:05,4,0,,," Montreal, QC",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:23:03,4,0,,,"Bergen County, NJ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T17:53:03,4,0,,,"Grafton County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:53:04,4,0,,,"Montgomery County, MD",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:43:03,4,0,,,"Montgomery County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:43:03,4,0,,,"Pierce County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T16:23:07,3,0,,,"Edmonton, Alberta",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T01:53:03,3,0,,,"Douglas County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T16:53:03,3,0,,,"Fulton County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T19:53:02,3,0,,,"Maricopa County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-04T02:13:11,3,0,,,"Orange County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T02:23:08,3,0,,,"Providence County, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-05T20:33:03,3,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T13:13:14,2,0,,,"Alameda County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T04:43:02,2,0,,,"Broward County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:43:03,2,0,,,"Clark County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T23:33:02,2,0,,,"Denver County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:33:02,2,0,,,"Fairfax County, VA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-03T18:33:02,2,0,,,"Hillsborough, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T00:13:16,2,0,,,"Jackson County, OR ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T15:33:04,2,1,,,"Lee County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T17:13:23,2,0,,,"Pinal County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T17:53:03,2,0,,,"Rockingham County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T16:43:02,2,0,,,"Rockland County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-03T00:43:02,2,0,,,"San Mateo, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T18:23:05,2,0,,,"Saratoga County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T01:29:39,2,0,,,"Summit County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T13:53:03,2,0,,,"Washington, D.C.",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:43:03,2,0,,,"Washoe County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T13:13:34,1,0,,,"Calgary, Alberta",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-02-12T18:53:03,1,0,,,"London, ON",Canada,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T00:43:03,1,0,,,"Berkshire County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T01:53:03,1,0,,,"Charleston County, SC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T16:13:15,1,0,,,"Chatham County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T20:03:07,1,0,,,"Clark County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T16:53:03,1,0,,,"Cobb County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T18:03:06,1,0,,,"Davidson County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T04:43:02,1,0,,,"Davis County, UT",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T15:33:03,1,0,,,"Delaware County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T23:33:02,1,0,,,"Douglas County, NE",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T19:53:03,1,0,,,"Douglas County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T01:13:21,1,0,,,"El Paso County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:23:03,1,0,,,"Fairfield County, CT",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T23:23:03,1,0,,,"Fayette County, KY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T04:23:15,1,0,,,"Fresno County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-05T20:23:07,1,0,,,"Grant County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:53:03,1,0,,,"Harford County, MD",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T19:33:03,1,0,,,"Hendricks County, IN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T02:03:30,1,0,,,"Honolulu County, HI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T19:43:03,1,0,,,"Hudson County, NJ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T16:43:02,1,0,,,"Jefferson County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T00:33:02,1,0,,,"Johnson County, KS",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T02:03:30,1,0,,,"Kershaw County, SC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T00:43:03,1,0,,,"Kittitas County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T20:13:14,1,0,,,"Klamath County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T20:13:14,1,0,,,"Madera County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-03T15:53:03,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T06:23:05,1,0,,,"Manatee County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T17:13:12,1,0,,,"Marion County, IN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T19:43:03,1,0,,,"Marion County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T03:03:08,1,0,,,"Okaloosa County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T03:53:03,1,0,,,"Plymouth County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T04:13:22,1,0,,,"Polk County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T23:23:03,1,0,,,"Ramsey County, MN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T10:33:03,1,0,,,"Riverside County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T15:33:04,1,1,,,"Santa Rosa County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-02T03:23:06,1,0,,,"Sarasota, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T16:13:36,1,0,,,"Shelby County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-02T20:53:02,1,0,,,"Sonoma County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:53:04,1,0,,,"Spokane County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T11:23:08,1,0,,,"St. Louis County, MO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T16:03:05,1,0,,,"Suffolk County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-07T04:43:02,1,0,,,"Tulsa County, OK",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T16:23:07,1,0,,,"Ulster County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-02T20:23:16,1,0,,,"Umatilla, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T06:23:05,1,0,,,"Unassigned Location, VT",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T21:23:03,1,0,,,"Unknown Location, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-08T03:03:08,1,0,,,"Volusia County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-03T20:53:02,1,0,,,"Wake County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.892000000
+2020-03-06T16:13:15,1,0,,,"Wayne County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.893000000
+2020-03-05T23:33:03,1,0,,,"Williamson County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.893000000
+2020-03-06T20:13:14,1,0,,,"Yolo County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.893000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.893000000
+2020-03-07T19:53:02,0,0,,,"Montgomery County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.893000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.893000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-08-2020.csv,2020-06-01 17:49:46.893000000
+2020-03-09T17:13:16,98,0,,,"Westchester County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T20:23:09,83,17,,,"King County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:23:03,38,0,,,"Santa Clara County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:43:03,31,1,,,"Snohomish County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T17:13:16,19,0,,,"New York County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T17:13:14,17,0,,,"Nassau County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T01:13:48,14,0,,,"Los Angeles, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:43:03,12,0,,,"Contra Costa County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T01:23:12,9,0,,,"San Francisco County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:13:14,8,0,,,"Suffolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T19:43:03,8,0,,,"Washington County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T20:23:09,7,0,,,"Cook County, IL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:13:12,7,0,,,"Middlesex County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:23:03,7,1,,,"Placer County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T17:33:03,6,0,,,"Fort Bend County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T09:13:19,6,0,,,"Harris County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:13:14,6,0,,,"Norfolk County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T18:53:13,5,0,,,"Fulton County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T18:33:03,5,0,,,"Montgomery County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T00:33:03,5,0,,,"Unassigned Location, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:23:03,4,0,,,"Bergen County, NJ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T17:53:03,4,0,,,"Grafton County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T00:03:07,4,0,,,"Kershaw County, SC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:53:04,4,0,,,"Montgomery County, MD",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T00:23:10,4,0,,,"Orange County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:43:03,4,0,,,"Pierce County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T17:33:13,4,0,,,"Rockland County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:53:03,3,0,,,"Broward County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T03:53:03,3,0,,,"Cobb County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T01:53:03,3,0,,,"Douglas County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T00:53:03,3,0,,,"Douglas County, NE",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:43:03,3,0,,,"Johnson County, IA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T19:53:02,3,0,,,"Maricopa County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T02:23:08,3,0,,,"Providence County, RI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-05T20:33:03,3,0,,,"San Diego County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T12:03:07,3,0,,,"Sonoma County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T13:13:14,2,0,,,"Alameda County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:43:03,2,0,,,"Clark County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T23:33:02,2,0,,,"Denver County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:33:02,2,0,,,"Fairfax County, VA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:43:03,2,0,,,"Harrison County, KY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:23:03,2,0,,,"Hendricks County, IN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-03T18:33:02,2,0,,,"Hillsborough, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T03:43:03,2,0,,,"Honolulu County, HI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T00:13:16,2,0,,,"Jackson County, OR ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T15:33:04,2,1,,,"Lee County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:53:03,2,0,,,"Manatee County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T17:13:23,2,0,,,"Pinal County, AZ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-02-27T20:33:02,2,0,,,"Sacramento County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-02-03T03:53:02,2,0,,,"San Benito, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-03T00:43:02,2,0,,,"San Mateo, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T18:23:05,2,0,,,"Saratoga County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T01:29:39,2,0,,,"Summit County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T13:53:03,2,0,,,"Washington, D.C.",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:43:03,2,0,,,"Washoe County, NV",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:53:03,1,0,,,"Bennington County, VT",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T00:43:03,1,0,,,"Berkshire County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:43:02,1,0,,,"Carver County, MN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T01:53:03,1,0,,,"Charleston County, SC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:53:03,1,0,,,"Charlotte County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T16:13:15,1,0,,,"Chatham County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T03:53:03,1,0,,,"Cherokee County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T20:03:07,1,0,,,"Clark County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T18:53:13,1,0,,,"Collin County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T18:03:06,1,0,,,"Davidson County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T04:43:02,1,0,,,"Davis County, UT",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T15:33:03,1,0,,,"Delaware County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T19:53:03,1,0,,,"Douglas County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T01:13:21,1,0,,,"El Paso County, CO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:23:03,1,0,,,"Fairfield County, CT",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T23:23:03,1,0,,,"Fayette County, KY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T04:23:15,1,0,,,"Fresno County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T08:43:03,1,1,,,"Grant County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:53:03,1,0,,,"Harford County, MD",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T19:43:03,1,0,,,"Hudson County, NJ",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-02-21T05:13:09,1,0,,,"Humboldt County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T00:23:10,1,0,,,"Jefferson County, KY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T16:43:02,1,0,,,"Jefferson County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T18:53:13,1,0,,,"Jefferson Parish, LA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T00:33:02,1,0,,,"Johnson County, KS",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T00:43:03,1,0,,,"Kittitas County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T20:13:14,1,0,,,"Klamath County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T20:13:14,1,0,,,"Madera County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-03T15:53:03,1,0,,,"Madison, WI",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T17:13:12,1,0,,,"Marion County, IN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T19:43:03,1,0,,,"Marion County, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T03:03:08,1,0,,,"Okaloosa County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T03:53:03,1,0,,,"Plymouth County, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T04:13:22,1,0,,,"Polk County, GA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T23:23:03,1,0,,,"Ramsey County, MN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T10:33:03,1,0,,,"Riverside County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T22:43:25,1,0,,,"Rockingham County, NH",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-02-13T18:53:02,1,0,,,"San Antonio, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T15:33:04,1,1,,,"Santa Rosa County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-02T03:23:06,1,0,,,"Sarasota, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T03:43:03,1,0,,,"Shasta County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T16:13:36,1,0,,,"Shelby County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-09T00:03:07,1,0,,,"Spartanburg County, SC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:53:04,1,0,,,"Spokane County, WA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T11:23:08,1,0,,,"St. Louis County, MO",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T16:03:05,1,0,,,"Suffolk County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T04:43:02,1,0,,,"Tulsa County, OK",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T16:23:07,1,0,,,"Ulster County, NY",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-02T20:23:16,1,0,,,"Umatilla, OR",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T21:23:03,1,0,,,"Unknown Location, MA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-08T03:03:08,1,0,,,"Volusia County, FL",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-03T20:53:02,1,0,,,"Wake County, NC",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T16:13:15,1,0,,,"Wayne County, PA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-05T23:33:03,1,0,,,"Williamson County, TN",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-06T20:13:14,1,0,,,"Yolo County, CA",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-02-24T23:33:02,0,0,,,"Lackland, TX (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-07T19:53:02,0,0,,,"Montgomery County, TX",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-02-24T23:33:02,0,0,,,"Omaha, NE (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-02-24T23:33:02,0,0,,,"Travis, CA (From Diamond Princess)",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-09-2020.csv,2020-06-01 17:49:47.136000000
+2020-03-11T21:13:18,7755,60,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-11-2020.csv,2020-06-01 17:49:47.590000000
+2020-03-12T05:13:02,7869,66,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-12-2020.csv,2020-06-01 17:49:47.817000000
+2020-03-11T20:00:00,7979,66,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-13-2020.csv,2020-06-01 17:49:48.065000000
+2020-03-14T01:33:02,8086,72,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-14-2020.csv,2020-06-01 17:49:48.298000000
+2020-03-14T16:15:18,1,0,,,"Virgin Islands, U.S.",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-14-2020.csv,2020-06-01 17:49:48.298000000
+2020-03-15T18:20:18,8162,75,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-15-2020.csv,2020-06-01 17:49:48.535000000
+2020-03-14T16:15:18,1,0,,,"Virgin Islands, U.S.",US,,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-15-2020.csv,2020-06-01 17:49:48.535000000
+2020-03-16T14:38:45,8236,75,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-16-2020.csv,2020-06-01 17:49:48.760000000
+2020-03-17T10:33:03,8320,81,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-17-2020.csv,2020-06-01 17:49:48.995000000
+2020-03-18T02:53:03,8413,84,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-18-2020.csv,2020-06-01 17:49:49.234000000
+2020-03-18T14:13:56,1,0,,,,"Gambia, The",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-18-2020.csv,2020-06-01 17:49:49.234000000
+2020-03-19T02:13:17,8565,91,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-19-2020.csv,2020-06-01 17:49:49.464000000
+2020-03-19T11:33:39,3,0,,,,"Bahamas, The",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-19-2020.csv,2020-06-01 17:49:49.464000000
+2020-03-18T14:13:56,1,0,,,,"Gambia, The",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-19-2020.csv,2020-06-01 17:49:49.464000000
+2020-03-20T02:13:46,8652,94,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-20-2020.csv,2020-06-01 17:49:49.694000000
+2020-03-19T11:33:39,3,0,,,,"Bahamas, The",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-20-2020.csv,2020-06-01 17:49:49.694000000
+2020-03-18T14:13:56,1,0,,,,"Gambia, The",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-20-2020.csv,2020-06-01 17:49:49.694000000
+2020-03-21T11:13:12,8799,102,,,,"Korea, South",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-21-2020.csv,2020-06-01 17:49:49.937000000
+2020-03-21T02:43:03,4,0,,,,"Bahamas, The",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-21-2020.csv,2020-06-01 17:49:49.937000000
+2020-03-18T14:13:56,1,0,,,,"Gambia, The",,,,,-1073442796,176,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format2\03-21-2020.csv,2020-06-01 17:49:49.937000000
+2/1/2020 19:43,2,0,0,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-01-2020.csv,2020-06-01 17:49:52.491000000
+2/1/2020 19:43,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-01-2020.csv,2020-06-01 17:49:52.491000000
+2/1/2020 19:53,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-01-2020.csv,2020-06-01 17:49:52.491000000
+2/1/2020 19:53,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-01-2020.csv,2020-06-01 17:49:52.491000000
+2/1/2020 19:53,1,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-01-2020.csv,2020-06-01 17:49:52.491000000
+2/1/2020 19:43,1,0,0,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-01-2020.csv,2020-06-01 17:49:52.491000000
+2/1/2020 19:43,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-01-2020.csv,2020-06-01 17:49:52.491000000
+2020-02-01T19:43:03,2,0,0,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-02-2020.csv,2020-06-01 17:49:52.724000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-02-2020.csv,2020-06-01 17:49:52.724000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-02-2020.csv,2020-06-01 17:49:52.724000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-02-2020.csv,2020-06-01 17:49:52.724000000
+2020-02-01T19:53:03,1,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-02-2020.csv,2020-06-01 17:49:52.724000000
+2020-02-01T19:43:03,1,0,0,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-02-2020.csv,2020-06-01 17:49:52.724000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-02-2020.csv,2020-06-01 17:49:52.724000000
+2020-02-01T19:43:03,2,0,0,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-03-2020.csv,2020-06-01 17:49:52.958000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-03-2020.csv,2020-06-01 17:49:52.958000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-03-2020.csv,2020-06-01 17:49:52.958000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-03-2020.csv,2020-06-01 17:49:52.958000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-03-2020.csv,2020-06-01 17:49:52.958000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-03-2020.csv,2020-06-01 17:49:52.958000000
+2020-02-01T19:43:03,1,0,0,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-03-2020.csv,2020-06-01 17:49:52.958000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-03-2020.csv,2020-06-01 17:49:52.958000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-01T19:43:03,2,0,0,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-04T00:03:11,1,0,0,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-01T19:43:03,1,0,0,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-04-2020.csv,2020-06-01 17:49:53.190000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-01T19:43:03,2,0,0,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-04T00:03:11,1,0,0,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-01T19:43:03,1,0,0,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-05-2020.csv,2020-06-01 17:49:53.425000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-01T19:43:03,2,0,0,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-04T00:03:11,1,0,0,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-01T19:43:03,1,0,0,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-06-2020.csv,2020-06-01 17:49:53.657000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-01T19:43:03,2,0,0,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-04T00:03:11,1,0,0,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-01T19:43:03,1,0,0,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-07-2020.csv,2020-06-01 17:49:53.890000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-01T19:43:03,2,0,0,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-04T00:03:11,1,0,0,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-01T19:43:03,1,0,0,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-08-2020.csv,2020-06-01 17:49:54.129000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-09T19:03:03,2,0,2,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-04T00:03:11,1,0,0,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-09T07:03:04,1,0,1,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-09-2020.csv,2020-06-01 17:49:54.357000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-09T19:03:03,2,0,2,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-04T00:03:11,1,0,0,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-09T07:03:04,1,0,1,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-10-2020.csv,2020-06-01 17:49:54.596000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-09T19:03:03,2,0,2,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-04T00:03:11,1,0,0,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-11T01:23:05,1,0,0,,,"San Diego County, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-09T07:03:04,1,0,1,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-11-2020.csv,2020-06-01 17:49:54.839000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-09T19:03:03,2,0,2,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-12T18:53:03,1,0,1,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-11T01:23:05,1,0,0,,,"San Diego County, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-09T07:03:04,1,0,1,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-12-2020.csv,2020-06-01 17:49:55.088000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-09T19:03:03,2,0,2,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-13T03:13:08,2,0,0,,,"San Diego County, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-12T18:53:03,1,0,1,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-13T18:53:02,1,0,0,,,"San Antonio, TX",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-09T07:03:04,1,0,1,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-13-2020.csv,2020-06-01 17:49:55.327000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-09T19:03:03,2,0,2,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-13T03:13:08,2,0,0,,,"San Diego County, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-12T18:53:03,1,0,1,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-13T18:53:02,1,0,0,,,"San Antonio, TX",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-09T07:03:04,1,0,1,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-17-2020.csv,2020-06-01 17:49:56.194000000
+2020-02-04T00:13:06,2,0,0,,,"Toronto, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-09T19:03:03,2,0,2,,,"Chicago, IL",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-03T03:53:02,2,0,0,,,"San Benito, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-13T03:13:08,2,0,0,,,"San Diego County, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-03T00:43:02,2,0,0,,,"Santa Clara, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-12T18:53:03,1,0,1,,,"London, ON",Canada,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-01T19:43:03,1,0,0,,,"Boston, MA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-01T19:53:03,1,0,0,,,"Los Angeles, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-05T21:53:02,1,0,0,,,"Madison, WI",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-01T19:53:03,1,0,0,,,"Orange, CA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-13T18:53:02,1,0,0,,,"San Antonio, TX",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-09T07:03:04,1,0,1,,,"Seattle, WA",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
+2020-02-01T19:43:03,1,0,0,,,"Tempe, AZ",US,,,,,-1073442796,168,C:\Users\user\Desktop\SQL SSIS Homework\TermProject\data\format1\02-18-2020.csv,2020-06-01 17:49:56.431000000
