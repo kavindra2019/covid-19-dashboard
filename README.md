@@ -16,7 +16,7 @@
 
 ### 🏠 [Homepage](https://github.com/iboraham/covid-19-dashboard)
 
-### ✨ [Demo](public.tableau.com/profile/onur.serbetci#!/vizhome/covid-19dashboard_15949743688030/dashboard1?publish=yes)
+### ✨ [Demo](https://public.tableau.com/profile/onur.serbetci#!/vizhome/covid-19dashboard_15949743688030/dashboard1?publish=yes)
 
 ## Install
 
